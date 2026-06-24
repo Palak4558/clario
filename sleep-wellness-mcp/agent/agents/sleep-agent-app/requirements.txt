@@ -1,0 +1,5 @@
+google-adk==1.17.0
+toolbox-core
+fastapi
+uvicorn
+requests
