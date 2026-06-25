@@ -1,5 +1,11 @@
 # Clario
 
+[![Watch the demo](docs/assets/demo_thumbnail.png)](docs/assets/clario_features_highlight.mp4)
+
+**🎥 [Watch a 1:45 walkthrough of both features](docs/assets/clario_features_highlight.mp4)** — Sleep Analysis
+first, then the Empty Chair dialogue end-to-end, recorded straight from the running app.
+(Click the image above or the link — GitHub plays `.mp4` files inline once you're viewing the file.)
+
 Clario is a youth mental wellness app built around two core features:
 
 1. **[Empty Chair](./empty-chair)** — a guided, AI-facilitated implementation of the
