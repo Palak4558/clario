@@ -1,6 +1,10 @@
+
+
+https://github.com/user-attachments/assets/ba2c22e8-c036-4a32-aa36-5efc8f3c1178
+
 # Clario
 
-[![Watch the demo](docs/assets/demo_thumbnail.png)](docs/assets/clario_features_highlight.mp4)
+
 
 **🎥 [Watch a 1:45 walkthrough of both features](docs/assets/clario_features_highlight.mp4)** — Sleep Analysis
 first, then the Empty Chair dialogue end-to-end, recorded straight from the running app.
